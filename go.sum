@@ -1,3 +1,5 @@
+github.com/Brodiez/Bnote v0.0.0-20240517230011-a9c0660d4dd2 h1:V2asaen7aPKhvZRFz2Cnd1POgwt0e6ky3ob3OaQg+80=
+github.com/Brodiez/Bnote v0.0.0-20240517230011-a9c0660d4dd2/go.mod h1:gUm1Xh47v0l3Q55ViV4OqODyZ8Wx0NeNGeo+/CQZ0NA=
 github.com/bwmarrin/discordgo v0.28.1 h1:gXsuo2GBO7NbR6uqmrrBDplPUx2T3nzu775q/Rd1aG4=
 github.com/bwmarrin/discordgo v0.28.1/go.mod h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
 github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
