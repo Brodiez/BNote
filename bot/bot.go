@@ -3,7 +3,7 @@ package bot
 import (
     "fmt"
 
-    "github.com/Brodiez/Bnote/config"
+    "github.com/Brodiez/BNote/config"
     "github.com/bwmarrin/discordgo"
 )
 
