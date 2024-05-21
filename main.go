@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	fmt.printf("Working")
     bot.Start()
 
     <-make(chan struct{})
